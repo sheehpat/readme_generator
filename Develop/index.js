@@ -60,6 +60,7 @@ const questions =[
 
 // TODO: Create a function to write README file
 function writeToFile(response) {
+  //Sets the value of badge based upon the license selection
   let badge ='';
   switch(response.license){
     case 'Apache License 2.0':
@@ -100,10 +101,7 @@ function writeToFile(response) {
 
   # Authors and acknowledgment
   ${response.authors}, You can reach out for more questions at ${response.email}.
-  
-  # Project status
-  ${response.appStatus}
-  
+
   # License
   ${response.license}` , 
   (err) => err ? console.error(err) : console.log('ReadMe successfully created!')) 
