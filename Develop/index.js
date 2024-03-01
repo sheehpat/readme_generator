@@ -86,20 +86,28 @@ function writeToFile(response) {
   ${badge}
   # ${response.repoName}
 
+  # Table of Contents
+  [Description](#description)  
+  [Visuals](#visuals)  
+  [Technologies](#technologies)  
+  [Usage](#usage)  
+  [Authors](#authors)  
+  [License](#license)
+
   # Description
   ${response.appDescription}
   
   # Visuals
   ![Screenshot](<${response.imgURL}>)
 
-  # Technologies Used
+  # Technologies
   ${response.technologies}
   
   # Usage
   [githublink](https://github.com/${response.userName}/${response.repoName})
   [launchpages](https://${response.userName}.github.io/${response.repoName})
 
-  # Authors and acknowledgment
+  # Authors
   ${response.authors}, You can reach out for more questions at ${response.email}.
 
   # License

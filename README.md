@@ -6,7 +6,7 @@ This README Generator generates a simple README file that includes all necessary
 This is a README generate built utilizing NODE.js. It takes input for the user via the command line interface and creates a README file to be included in the repo.
   
 # Visuals
-[VideoRecording](https://drive.google.com/file/d/1sgBe04sXKTDpIQzLClqOCrivDWo3agGa/view)
+[VideoRecording](https://drive.google.com/file/d/1L-JbRc0O8dXp_UF01mlNvDQVsTF-KoWm/view)
 
 # Technologies Used
 Node.js

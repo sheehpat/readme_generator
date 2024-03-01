@@ -1,22 +1,30 @@
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  # Sample_readme
+  # Sample_Readme
+
+  # Table of Contents
+  [Description](#description)  
+  [Visuals](#visuals)  
+  [Technologies](#technologies)  
+  [Usage](#usage)  
+  [Authors](#authors)  
+  [License](#license)
 
   # Description
-  Create a README file from CLI prompts.
+  It generates a README file.
   
   # Visuals
   ![Screenshot](<testImage.jpeg>)
 
-  # Technologies Used
-  Node.js
+  # Technologies
+  node.js
   
   # Usage
-  [githublink](https://github.com/sheehpat/Sample_readme)
-  [launchpages](https://sheehpat.github.io/Sample_readme)
+  [githublink](https://github.com/sheehpat/Sample_Readme)
+  [launchpages](https://sheehpat.github.io/Sample_Readme)
 
-  # Authors and acknowledgment
-  Patrick Sheehan, You can reach out for more questions at test@testtest.com.
+  # Authors
+  Patrick Sheehan, You can reach out for more questions at test@test.com.
 
   # License
   MIT
